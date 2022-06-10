@@ -1,0 +1,23 @@
+.main .upper #video{
+  width: 640px;
+  height: 360px;
+}
+
+.main .upper #track_image{
+  width: 640px;
+  height: 360px;
+  margin-top: 200px;
+}
+
+body{
+	height: 100vh;
+	width: 100%;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+  background-color: rgba(175, 98, 138, 0.8);
+}
+
+#title{
+  font-size: 30px;
+}
